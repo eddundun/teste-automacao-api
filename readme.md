@@ -19,7 +19,7 @@ Automatizar um teste de API no sistema Reqres.in
 ```
  
 
-## Pré-Condições
+## Pré-requisitos
 
 * java
 * rest-assured
