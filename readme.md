@@ -27,7 +27,7 @@ Automatizar um teste de API no sistema Reqres.in
 
 ## Entrega do Projeto
 
-Faça um *Fork* do projeto atual
+Faça um *Fork* deste projeto
 
 #### O que será avaliado
 
